@@ -93,3 +93,24 @@ a{
     justify-content: space-around;
     font-size: 25px;
 }
+conteiner{
+    display:flex;
+    background-color: #0E3214;
+    justify-content: space-around;
+    align-items: center;
+    padding: 25px;
+}
+.footer-content{
+    color:#ffffff;
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 20px;
+
+}
+.footer-nav a,
+.footer-socials a{
+    color:#ffffff;
+    text-decoration:none;
+    margin: 0 10px;
+}
